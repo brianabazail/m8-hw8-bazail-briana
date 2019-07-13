@@ -11,8 +11,11 @@ li {
 ul li p {
   padding: 15%;
   margin: 0;
+  background-color: #fff;
+  transition: background-color 1000ms;
 }
 
 .pink {
   background-color: #E4B0D0;
+  transition: background-color 1000ms;
 }
